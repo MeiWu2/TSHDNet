@@ -6,3 +6,6 @@ This repository contains the official implementation of the TSHDNet framework, a
 
 The TSHDNet framework comprises a combination of temporal and spatial modules to capture both temporal and spatial characteristics of traffic flow. The architecture is designed to reveal the underlying relationship between traffic patterns and spatio-temporal heterogeneity, enhancing our understanding of traffic dynamics and improving the accuracy of traffic flow prediction.
 
+![Uploading model.png…]()
+
+
